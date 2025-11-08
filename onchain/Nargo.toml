@@ -1,0 +1,6 @@
+[package]
+name = "onchain"
+type = "bin"
+authors = [""]
+
+[dependencies]
